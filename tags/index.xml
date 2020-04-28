@@ -6,9 +6,64 @@
     <description>Recent content in Tags on Minimal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://doNotBeTooSerious.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>some thoughts</title>
+      <link>https://doNotBeTooSerious.github.io/tags/some-thoughts/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doNotBeTooSerious.github.io/tags/some-thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>selfmade</title>
+      <link>https://doNotBeTooSerious.github.io/tags/selfmade/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doNotBeTooSerious.github.io/tags/selfmade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>杂碎记录</title>
+      <link>https://doNotBeTooSerious.github.io/tags/%E6%9D%82%E7%A2%8E%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doNotBeTooSerious.github.io/tags/%E6%9D%82%E7%A2%8E%E8%AE%B0%E5%BD%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>胡写乱画</title>
+      <link>https://doNotBeTooSerious.github.io/tags/%E8%83%A1%E5%86%99%E4%B9%B1%E7%94%BB/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doNotBeTooSerious.github.io/tags/%E8%83%A1%E5%86%99%E4%B9%B1%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first file</title>
+      <link>https://doNotBeTooSerious.github.io/tags/first-file/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doNotBeTooSerious.github.io/tags/first-file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>introduction</title>
+      <link>https://doNotBeTooSerious.github.io/tags/introduction/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doNotBeTooSerious.github.io/tags/introduction/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

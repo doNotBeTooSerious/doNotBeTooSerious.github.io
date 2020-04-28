@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>first file on Minimal</title>
+    <link>https://doNotBeTooSerious.github.io/tags/first-file/</link>
+    <description>Recent content in first file on Minimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://doNotBeTooSerious.github.io/tags/first-file/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>myFirstFile</title>
+      <link>https://doNotBeTooSerious.github.io/post/introduction/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doNotBeTooSerious.github.io/post/introduction/</guid>
+      <description>What&amp;rsquo;s next ? So, this is my first file on my own Hugo webpage, the date is 25th, March 2020. Now is late in the night.I don&amp;rsquo;t know how far will I go with this, the initial motivation for me to create a webpage is to create a similar (probably the same&amp;hellip;) webpage for a girl I care about&amp;hellip; Anyway, that&amp;rsquo;s it. And I do wish to share some of my opinions with you boys and girls, maybe some new codes?</description>
+    </item>
+    
+  </channel>
+</rss>
