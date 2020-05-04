@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Einmal ist keinmal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://doNotBeTooSerious.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>code</title>
+      <link>https://doNotBeTooSerious.github.io/tags/code/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doNotBeTooSerious.github.io/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>communication</title>
+      <link>https://doNotBeTooSerious.github.io/tags/communication/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doNotBeTooSerious.github.io/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>selfmade</title>
+      <link>https://doNotBeTooSerious.github.io/tags/selfmade/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doNotBeTooSerious.github.io/tags/selfmade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tehc</title>
+      <link>https://doNotBeTooSerious.github.io/tags/tehc/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doNotBeTooSerious.github.io/tags/tehc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>some thoughts</title>
@@ -17,15 +53,6 @@
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://doNotBeTooSerious.github.io/tags/some-thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>selfmade</title>
-      <link>https://doNotBeTooSerious.github.io/tags/selfmade/</link>
-      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://doNotBeTooSerious.github.io/tags/selfmade/</guid>
       <description></description>
     </item>
     
