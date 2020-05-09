@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Einmal ist keinmal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://doNotBeTooSerious.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>selfmade</title>
+      <link>https://doNotBeTooSerious.github.io/tags/selfmade/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doNotBeTooSerious.github.io/tags/selfmade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>胡思乱想</title>
+      <link>https://doNotBeTooSerious.github.io/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doNotBeTooSerious.github.io/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>code</title>
@@ -26,15 +44,6 @@
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://doNotBeTooSerious.github.io/tags/communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>selfmade</title>
-      <link>https://doNotBeTooSerious.github.io/tags/selfmade/</link>
-      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://doNotBeTooSerious.github.io/tags/selfmade/</guid>
       <description></description>
     </item>
     

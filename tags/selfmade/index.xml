@@ -6,10 +6,25 @@
     <description>Recent content in selfmade on Einmal ist keinmal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://doNotBeTooSerious.github.io/tags/selfmade/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Do not say, it hurts</title>
+      <link>https://doNotBeTooSerious.github.io/post/dont/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://doNotBeTooSerious.github.io/post/dont/</guid>
+      <description>物质或许在一夜之间消散，
+亲爱的你清晨时分是否还散着发香在我身旁？
+钻石如此耀眼冰冷，
+它哪里能像你温润的脖颈和双手般抚慰我的喜悦忧伤？
+亲爱的人啊，我从这些动荡和冰冷中爬出来拥抱你，
+你为什么忍心同我说“我实是那坟墓的奴仆”呢？
+注：不是个人经历启发，目前没有真正遇到这样的事情，希望以后也不要。只是对于粗糙武断的唯物主义表示质疑。</description>
+    </item>
     
     <item>
       <title>Arduino&amp;Scratch3</title>
